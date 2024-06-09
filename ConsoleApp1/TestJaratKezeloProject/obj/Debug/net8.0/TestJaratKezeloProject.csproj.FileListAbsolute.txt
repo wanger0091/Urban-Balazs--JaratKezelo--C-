@@ -1,0 +1,5 @@
+C:\Users\ubala\Desktop\fasz\ConsoleApp1\TestJaratKezeloProject\obj\Debug\net8.0\TestJaratKezeloProject.csproj.AssemblyReference.cache
+C:\Users\ubala\Desktop\fasz\ConsoleApp1\TestJaratKezeloProject\obj\Debug\net8.0\TestJaratKezeloProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ubala\Desktop\fasz\ConsoleApp1\TestJaratKezeloProject\obj\Debug\net8.0\TestJaratKezeloProject.AssemblyInfoInputs.cache
+C:\Users\ubala\Desktop\fasz\ConsoleApp1\TestJaratKezeloProject\obj\Debug\net8.0\TestJaratKezeloProject.AssemblyInfo.cs
+C:\Users\ubala\Desktop\fasz\ConsoleApp1\TestJaratKezeloProject\obj\Debug\net8.0\TestJaratKezeloProject.csproj.CoreCompileInputs.cache

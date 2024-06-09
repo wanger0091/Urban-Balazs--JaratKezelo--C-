@@ -1,0 +1,2 @@
+C:\Users\ubala\Desktop\fasz\ConsoleApp1\ConsoleApp1\obj\Debug\JaratKezeloProject.csproj.AssemblyReference.cache
+C:\Users\ubala\Desktop\fasz\ConsoleApp1\ConsoleApp1\obj\Debug\JaratKezeloProject.csproj.CoreCompileInputs.cache
